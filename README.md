@@ -1,2 +1,2 @@
 # SSP
-Testing my SSP repository
+Repository of the Project Simulated Sampling Procedure
