@@ -1,0 +1,23 @@
+Package: SSP
+Title: Simulated Sampling Procedure for Community Ecology
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Edlin",
+           family = "José Guerra Castro",
+           role = c("aut", "cre"),
+           email = "edlinguerra@gmail.com")
+Description: What the package does (one paragraph).
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/edlinguerra/SSP
+BugReports: https://github.com/edlinguerra/SSP/issues
+Imports: 
+    vegan,
+    ape,
+    ggplot2
